@@ -97,3 +97,7 @@ Files included in this release:
     Date: 2025-06-12T23:54:07-07:00
 
 --------------------------------------------------
+Log Entry: Fri Jun 27 19:57:48 UTC 2025
+Triggering Commit SHA: ab43bac0e8f7a522436630c87a125e92486431c4
+Action: Synced trust-list/C2PA-TRUST-LIST.pem from the conformance-submissions repository.
+--------------------------------------------------
