@@ -1,3 +1,41 @@
 [
-
-  ]
+    {
+        "recordId": "0197aa34-665b-7811-9bbc-317cfd988d0a",
+        "applicant": "Google LLC",
+        "status": "conformant",
+        "product": {
+            "productType": "generatorProduct",
+            "DN": {
+                "CN": "Pixel Camera",
+                "O": "Google LLC",
+                "OU": "",
+                "C": "US"
+            },
+            "minVersion": "68566598",
+            "assurance": {
+                "maxAssuranceLevel": 2,
+                "attestationMethods": [
+                    "Android_KeyAttestation"
+                ]
+            }
+        },
+        "specVersion": [
+            "2.2"
+        ],
+        "conformanceProgramVersion": "0.1",
+        "containers": {
+            "generate": {
+                "image": [
+                    "image/jpeg"
+                ]
+            },
+            "validate": {}
+        },
+        "dates": {
+            "creation": "2025-06-26",
+            "conformance": "2025-06-27",
+            "earliestPublicDisclosure": "2025-08-21",
+            "lastModification": "2025-06-27"
+        }
+    }
+]
