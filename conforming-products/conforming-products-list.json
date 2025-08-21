@@ -37,5 +37,88 @@
             "earliestPublicDisclosure": "2025-08-21",
             "lastModification": "2025-06-27"
         }
+    },
+    {
+        "recordId": "0197ae4d-5c85-739f-91ae-70b0523425a7",
+        "applicant": "Google LLC",
+        "status": "conformant",
+        "product": {
+            "productType": "generatorProduct",
+            "DN": {
+                "CN": "Google Photos",
+                "O": "Google LLC",
+                "OU": "Google Photos Android",
+                "C": "US"
+            },
+            "minVersion": "7.35",
+            "assurance": {
+                "maxAssuranceLevel": 1,
+                "attestationMethods": [
+                    "Android_KeyAttestation"
+                ]
+            }
+        },
+        "specVersion": [
+            "2.2"
+        ],
+        "conformanceProgramVersion": "0.1",
+        "containers": {
+            "generate": {
+                "image": [
+                    "image/jpeg"
+                ]
+            },
+            "validate": {
+                "image": [
+                    "image/jpeg"
+                ]
+            }
+        },
+        "dates": {
+            "creation": "2025-06-26",
+            "conformance": "2025-06-27",
+            "earliestPublicDisclosure": "2025-08-21",
+            "lastModification": "2025-06-27"
+        }
+    },
+    {
+        "recordId": "01981b77-97a6-70a1-8c82-bee8e48eef4c",
+        "applicant": "Google LLC",
+        "status": "conformant",
+        "product": {
+            "productType": "generatorProduct",
+            "DN": {
+                "CN": "Google Photos",
+                "O": "Google LLC",
+                "OU": "Google Photos iOS",
+                "C": "US"
+            },
+            "minVersion": "7.37",
+            "assurance": {
+                "maxAssuranceLevel": 1
+            }
+        },
+        "specVersion": [
+            "2.2"
+        ],
+        "conformanceProgramVersion": "0.1",
+        "containers": {
+            "generate": {
+                "image": [
+                    "image/jpeg"
+                ]
+            },
+            "validate": {
+                "image": [
+                    "image/jpeg"
+                ]
+            }
+        },
+        "dates": {
+            "creation": "2025-07-18",
+            "conformance": "2025-07-21",
+            "earliestPublicDisclosure": "2025-08-21",
+            "lastModification": "2025-07-21"
+        }
     }
 ]
