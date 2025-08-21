@@ -162,5 +162,41 @@
             "earliestPublicDisclosure": "2025-08-21",
             "lastModification": "2025-07-22"
         }
+    },
+    {
+        "recordId": "01983ac3-fc32-7402-b0bf-cc90725fe475",
+        "applicant": "Google LLC",
+        "status": "conformant",
+        "product": {
+            "productType": "generatorProduct",
+            "DN": {
+                "CN": "YouTube Media Processing Services",
+                "O": "Google LLC",
+                "OU": "YouTube System 86753",
+                "C": "US"
+            },
+            "minVersion": "",
+            "assurance": {
+                "maxAssuranceLevel": 1
+            }
+        },
+        "specVersion": [
+            "2.2"
+        ],
+        "conformanceProgramVersion": "0.1",
+        "containers": {
+            "generate": {
+                "image": [
+                    "image/jpeg"
+                ]
+            },
+            "validate": {}
+        },
+        "dates": {
+            "creation": "2025-07-24",
+            "conformance": "2025-07-27",
+            "earliestPublicDisclosure": "2025-08-21",
+            "lastModification": "2025-07-27"
+        }
     }
 ]
